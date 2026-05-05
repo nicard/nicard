@@ -48,6 +48,7 @@ I design and build **scalable, high-performance systems**, from early-stage MVPs
 
 ### Oya Care (Health-Tech) — Senior Software Engineer
 2022 — 2026
+
 Tech: Node.js/TypeScript, Angular, React, AWS
 
 - Built solutions to automate operational workflows and internal processes
@@ -58,6 +59,7 @@ Tech: Node.js/TypeScript, Angular, React, AWS
 
 ### Beblue (Fintech) — Tech Lead / Senior Software Engineer
 2020 — 2022
+
 Tech: Node.js/TypeScript, Angular, .NetCore, AWS
 
 - Led a team focused on building internal tools for operational performance and control
@@ -66,6 +68,7 @@ Tech: Node.js/TypeScript, Angular, .NetCore, AWS
 
 ### Unysoft Systemas (ERP Platform) — Full Stack Engineer
 2018 — 2020
+
 Tech: AngularJS, ASP.NET (C# / .NET Core), SQL Server, Node.js, jQuery, HTML, CSS, Git
 
 - Developed and enhanced an ERP platform, improving the technology stack and delivering new features to address customer needs
@@ -75,6 +78,7 @@ Tech: AngularJS, ASP.NET (C# / .NET Core), SQL Server, Node.js, jQuery, HTML, CS
 
 ### Tilix Digital — Software Engineer / CTO
 2017 — 2018
+
 Tech: PHP, Laravel, Angular, React, Java (Android), PostgreSQL, Docker, AWS (EC2, Lambda, Cognito, S3, RDS, SNS, CodeBuild, ELB), Linux, Git
 
 - Co-founded and helped scale an innovation-driven platform focused on transforming how customers manage and pay bills
