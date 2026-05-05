@@ -1,4 +1,4 @@
-# Hi, I'm Richard aka Nicard 👋
+# Hi, I'm Richard — aka Nicard 👋
 
 **Senior Software Engineer | 18+ years | Software Architecture | Distributed Systems | Fintech, Logistics, Health-Tech & AI**
 
@@ -50,10 +50,10 @@ I design and build **scalable, high-performance systems**, from early-stage MVPs
 2022 — 2026
 Tech: Node.js/TypeScript, Angular, React, AWS
 
-Built solutions to automate operational workflows and internal processes
-Improved scalability and performance of critical system components
-Designed microservices to enable seamless integration with third-party APIs
-Developed AI-driven agents for patient support and medical workflow management
+- Built solutions to automate operational workflows and internal processes
+- Improved scalability and performance of critical system components
+- Designed microservices to enable seamless integration with third-party APIs
+- Developed AI-driven agents for patient support and medical workflow management
 
 
 ### Beblue (Fintech) — Tech Lead / Senior Software Engineer
@@ -61,11 +61,11 @@ Developed AI-driven agents for patient support and medical workflow management
 Tech: Node.js/TypeScript, Angular, .NetCore, AWS
 
 - Led a team focused on building internal tools for operational performance and control
-- Designed and delivered a solution that recovered over $3M in lost debt
+- Designed and delivered a solution that recovered over $6M in lost debt
 - Migrated parts of a monolithic system to microservices, resolving scalability and performance bottlenecks
 
 ### Unysoft Systemas (ERP Platform) — Full Stack Engineer
-2028-2020
+2018 — 2020
 Tech: AngularJS, ASP.NET (C# / .NET Core), SQL Server, Node.js, jQuery, HTML, CSS, Git
 
 - Developed and enhanced an ERP platform, improving the technology stack and delivering new features to address customer needs
@@ -74,7 +74,7 @@ Tech: AngularJS, ASP.NET (C# / .NET Core), SQL Server, Node.js, jQuery, HTML, CS
 - Contributed to the evolution of legacy systems, modernizing parts of the application
 
 ### Tilix Digital — Software Engineer / CTO
-2017—2018
+2017 — 2018
 Tech: PHP, Laravel, Angular, React, Java (Android), PostgreSQL, Docker, AWS (EC2, Lambda, Cognito, S3, RDS, SNS, CodeBuild, ELB), Linux, Git
 
 - Co-founded and helped scale an innovation-driven platform focused on transforming how customers manage and pay bills
