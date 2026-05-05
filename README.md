@@ -1,4 +1,4 @@
-# Hi, I'm Nicard 👋
+# Hi, I'm Richard aka Nicard 👋
 
 **Senior Software Engineer | 18+ years | Software Architecture | Distributed Systems | Fintech, Logistics, Health-Tech & AI**
 
