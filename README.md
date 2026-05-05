@@ -42,7 +42,7 @@ I design and build **scalable, high-performance systems**, from early-stage MVPs
 - Built and scaled systems for **banks and fintechs**, delivering secure and high-performance solutions  
 - Developed **logistics platforms** improving operational efficiency and performance  
 - Created **ERP systems** for commercial operations  
-- Currently working on **health-tech and AI solutions**
+- Building **health-tech** and **AI-driven systems**
 
 ---
 
